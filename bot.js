@@ -10,7 +10,7 @@ client.on('ready', () => {
 client.login(process.env.DISCORD_TOKEN);
 
 
-const uvrede = ['braaaavo majmune <:PepeYikes:590208727479746573>','aj cuti <:PepeYikes:590208727479746573>','e aj samo ti ne seri <:PepeYikes:590208727479746573>']
+const uvrede = ['braaaavo majmune <:PepeYikes:637575565528006656>','aj cuti <:PepeYikes:637575565528006656>','e aj samo ti ne seri <:PepeYikes:637575565528006656>']
 
 
 
