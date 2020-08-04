@@ -15,7 +15,7 @@ const uvrede = ['braaaavo majmune <:PepeYikes:590208727479746573>','aj cuti <:Pe
 
 
 client.on('message', user => {
-    if (user.author.username === 'Brle' || user.author.username === 'Dajnfehr' ) {
+    if (user.author.username === 'Brle' || user.author.username === 'djalobre' ) {
       const random = Math.floor(Math.random() * uvrede.length);
       user.reply(uvrede[random]);
     }
